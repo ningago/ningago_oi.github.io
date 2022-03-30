@@ -153,4 +153,4 @@ int main()
 			printf("%d\n",get_suc(t));
 	}
 	return 0;
-}
+} 
